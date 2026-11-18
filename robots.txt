@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jclokietek.github.io/sitemap.xml
